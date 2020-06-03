@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Регистрация времени</string>
+    <string name="btnLoginAdm">Админка</string>
+
+
+    <string-array name="users">
+        <item>John</item>
+        <item>nvsmle</item>
+        <item>Jack</item>
+        <item>Helen</item>
+    </string-array>
+</resources>

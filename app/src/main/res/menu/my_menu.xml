@@ -3,8 +3,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/AdminConsole"
-        android:title="Консоль администрирования"
-        app:showAsAction="never" />
+        android:id="@+id/adminConsole"
+        android:title="Админка"
+         />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Выход"
+        />
 
 </menu>

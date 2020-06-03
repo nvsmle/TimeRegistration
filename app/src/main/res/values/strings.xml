@@ -3,10 +3,12 @@
     <string name="btnLoginAdm">Админка</string>
 
 
-    <string-array name="users">
-        <item>John</item>
-        <item>nvsmle</item>
-        <item>Jack</item>
-        <item>Helen</item>
-    </string-array>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Ev4uYEqccq6cmJxByJxtGfkS7CSpwypB7XfkvKnk</string>
+    <string name="back4app_client_key">ciIelJNBcdHihAVtbKiyHXF9l940a22BYmjhR5Et</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
